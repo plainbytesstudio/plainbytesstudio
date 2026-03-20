@@ -1,29 +1,134 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/plainbytesstudio/PrivateLabelQR/main/PrivateLabelQR.png" width="100" />
-  <h1>PlainBytes Studio</h1>
-  <p><b>Minimalist • Privacy-First • Native Windows Tools</b></p>
-</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/plainbytesstudio/PrivateLabelQR/main/PrivateLabelQR.png" width="96" />
+
+<br/><br/>
+
+# PlainBytes Studio
+
+**Minimalist · Privacy-First · Native Windows Tools**
+
+<br/>
+
+<img src="https://img.shields.io/badge/Platform-Windows-0078D4?style=flat-square&logo=windows&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Runtime-.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/License-Freeware-34C759?style=flat-square" />
+
+<br/><br/>
 
 ---
 
-### 🛡️ Our Mission
-We believe professional software should be fast, reliable, and respect your privacy. That's why we build tools that run **100% offline**. Your data stays where it belongs—on your machine.
+<br/>
 
-### 🚀 Featured Tool
-**[Private Label QR](https://github.com/plainbytesstudio/PrivateLabelQR)**  
-*The most efficient way to generate high-DPI QR & Barcode labels from spreadsheets.*
-- ✅ **Avery Standard Support** (5160, 5163, L7160)
-- ✅ **Bulk Processing** from Excel/CSV
-- ✅ **100% Local & Free**
+### The Why
 
----
-
-### 📬 Let's Connect
-Whether you need a custom automation tool or a professional Windows solution, we are here to help.
-- **Email:** plainbytes.studio@gmail.com
-- **Official Site:** [plainbytesstudio.github.io/PrivateLabelQR](https://plainbytesstudio.github.io/PrivateLabelQR/)
-
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=plainbytesstudio&show_icons=true&theme=dark&hide_border=true&bg_color=08080C&title_color=007AFF&text_color=F5F5F7" />
+<p style="max-width:640px">
+We believe that professional software should be fast, reliable,<br/>
+and most importantly, keep your data where it belongs — <strong>on your machine</strong>.<br/><br/>
+No cloud uploads. No accounts. No tracking.<br/>
+Just tools that work.
 </p>
+
+<br/>
+
+---
+
+<br/>
+
+### 🏷️ Featured Tool
+
+<br/>
+
+<a href="https://github.com/plainbytesstudio/PrivateLabelQR">
+<img src="https://img.shields.io/badge/Private_Label_QR-→_View_Repository-007AFF?style=for-the-badge" />
+</a>
+
+<br/><br/>
+
+**Generate 1000+ QR & Barcode Labels from Excel in Seconds**
+
+<br/>
+
+<table>
+<tr>
+<td width="320" align="center">
+<br/>
+<strong>📐 Precision Layouts</strong><br/><br/>
+Avery 5160 · 5163 · L7160<br/>
+Pixel-perfect label alignment<br/>
+for professional print runs
+<br/><br/>
+</td>
+<td width="320" align="center">
+<br/>
+<strong>🚀 High-Performance Bulk</strong><br/><br/>
+Import Excel / CSV<br/>
+Export print-ready PDF<br/>
+in seconds, not hours
+<br/><br/>
+</td>
+<td width="320" align="center">
+<br/>
+<strong>🔒 100% Local Execution</strong><br/><br/>
+Zero internet required<br/>
+Enterprise-grade privacy<br/>
+Your data never leaves your PC
+<br/><br/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<a href="https://github.com/plainbytesstudio/PrivateLabelQR">
+<img src="https://raw.githubusercontent.com/plainbytesstudio/PrivateLabelQR/main/assets/screenshot-bulk.jpg" width="720" alt="Private Label QR — Bulk Mode" />
+</a>
+
+<br/><br/>
+
+*QR Code · Code 128 · EAN-13 — all generated offline with full color & logo customization.*
+
+<br/>
+
+---
+
+<br/>
+
+### 📬 Get in Touch
+
+<br/>
+
+Have a workflow that needs automating?<br/>
+Need a custom Windows utility for your team?
+
+<br/><br/>
+
+<a href="mailto:plainbytes.studio@gmail.com">
+<img src="https://img.shields.io/badge/Email-plainbytes.studio@gmail.com-007AFF?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://plainbytesstudio.github.io/PrivateLabelQR">
+<img src="https://img.shields.io/badge/Website-plainbytesstudio.github.io-555555?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<br/><br/>
+
+---
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=plainbytesstudio&show_icons=true&hide_border=true&theme=github_dark&icon_color=007AFF&title_color=007AFF&text_color=9CA3AF&bg_color=00000000" width="480" alt="GitHub Stats" />
+
+<br/><br/>
+
+<sub>© 2025 PlainBytes Studio · Handcrafted for professionals who value privacy.</sub>
+
+<br/><br/>
+
+</div>
