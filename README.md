@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/plainbytesstudio/PrivateLabelQR/main/PrivateLabelQR.png" width="96" />
+<img src="https://raw.githubusercontent.com/plainbytesstudio/PrivateLabelQR/main/PrivateLabelQR.jpg" width="96" />
 
 <br/><br/>
 
