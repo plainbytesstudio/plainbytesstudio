@@ -116,7 +116,4 @@ Need a custom Windows utility for your team?
 <a href="https://plainbytesstudio.github.io/PrivateLabelQR">
 <img src="https://img.shields.io/badge/Website-plainbytesstudio.github.io-555555?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-<br/>
----
-
 </div>
