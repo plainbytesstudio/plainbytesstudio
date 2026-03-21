@@ -123,10 +123,6 @@ Need a custom Windows utility for your team?
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=plainbytesstudio&show_icons=true&hide_border=true&theme=github_dark&icon_color=007AFF&title_color=007AFF&text_color=9CA3AF&bg_color=00000000" width="480" alt="GitHub Stats" />
-
-<br/><br/>
-
 <sub>© 2025 PlainBytes Studio · Handcrafted for professionals who value privacy.</sub>
 
 <br/><br/>
