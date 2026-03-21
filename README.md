@@ -109,7 +109,7 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/plainbytesstudio/PrivateLabelQR">
-<img src="https://img.shields.io/badge/📂_Source_&_Docs-2C2C2E?style=for-the-badge&logoColor=white" height="34" />
+<img src="https://img.shields.io/badge/📄_Learn_More-2C2C2E?style=for-the-badge&logoColor=white" height="34" />
 </a>
 
 <br/><br/>
